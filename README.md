@@ -2,7 +2,9 @@
 
 This is our Pytorch implementation for the paper (accepted by CPAL 2025):
 
-> Liu G, Zhang Y, Li Y, Yao Q. Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering[J]. arXiv preprint arXiv:2406.01145, 2024.
+> Liu, G., Zhang, Y., Li, Y., & Yao, Q. Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering. In *The Second Conference on Parsimony and Learning*
+
+Link to paper: https://openreview.net/pdf?id=odnOkx8Qfj
 
 ## Instructions
 
